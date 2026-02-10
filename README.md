@@ -94,18 +94,6 @@ I enjoy working across the full development lifecycle - from hardware interfacin
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devarsh170407&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devarsh170407&theme=tokyonight"/>
-</p>
-
----
-
 ## 💡 Engineering Philosophy
 
 I believe robotics innovation comes from merging intelligent algorithms with real-world hardware experimentation. My approach focuses on rapid prototyping, research-driven design, and building practical systems that solve real-world problems.
