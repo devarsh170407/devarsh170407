@@ -63,7 +63,7 @@ I enjoy working across the full development lifecycle — from hardware interfac
 ## 🚀 Projects
 
 | Project | Description | Technologies | Status |
-|--------|-------------|-------------|
+|--------|-------------|-------------|----------|
 | Self-Balancing Robot | Autonomous balancing robot using control algorithms | Robotics | Completed |
 | SO100 Robotics Arm | Robotic arm implementation and control | Robotics | Completed |
 | TURTLEBOT Autonomous Bot | Autonomous mobile robot platform | Robotics | Ongoing |
