@@ -68,7 +68,8 @@ I enjoy working across the full development lifecycle — from hardware interfac
 | SO100 Robotics Arm | Robotic arm implementation and control | Robotics | Completed |
 | TURTLEBOT Autonomous Bot | Autonomous mobile robot platform | Robotics | Ongoing |
 | AI-Driven Solar Panel Optimization | MATLAB-based research optimization system | MATLAB, AI | Completed |
-| Line Following & Obstacle Robot | Autonomous navigation robot | Arduino, Sensors | Completed |
+| Line Following | Autonomous navigation robot | Arduino, Sensors | Completed |
+| Obstacle Avoidence Robot | Autonomous navigation robot | Arduino, Sensors | Completed |
 | Dual Output Power Supply Design | Hardware power supply using LM317 & LM337 | Analog Electronics | Completed |
 | Smart Inventory Manager Robot (SIH) | Warehouse automation robotic system | IoT, Robotics | Completed |
 | Fastest Finger First using ICs | Digital logic-based electronic system | Digital Logic Design | Completed |
