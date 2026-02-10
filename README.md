@@ -4,8 +4,18 @@
 
 ## ⚡ Tech Stack
 
+## ⚡ Tech Stack
+
+## ⚡ Tech Stack
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,java,git,github,linux,js,php,matlab,arduino,raspberrypi,opencv,anaconda,canva,R" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,c,cpp,java,git,github,linux,arduino,raspberrypi,opencv,anaconda,r&perline=7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+
 </p>
 
 ---
