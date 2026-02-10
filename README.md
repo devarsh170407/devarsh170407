@@ -62,16 +62,16 @@ I enjoy working across the full development lifecycle — from hardware interfac
 
 ## 🚀 Projects
 
-| Project | Description | Technologies |
+| Project | Description | Technologies | Status |
 |--------|-------------|-------------|
-| Self-Balancing Robot | Autonomous balancing robot using control algorithms | Embedded Systems |
-| SO100 Robotics Arm | Robotic arm implementation and control | Robotics |
-| TURTLEBOT Autonomous Bot | Autonomous mobile robot platform | Robotics |
-| AI-Driven Solar Panel Optimization | MATLAB-based research optimization system | MATLAB, AI |
-| Line Following & Obstacle Robot | Autonomous navigation robot | Arduino, Sensors |
-| Dual Output Power Supply Design | Hardware power supply using LM317 & LM337 | Analog Electronics |
-| Smart Inventory Manager Robot (SIH) | Warehouse automation robotic system | IoT, Robotics |
-| Fastest Finger First using ICs | Digital logic-based electronic system | Digital Logic Design |
+| Self-Balancing Robot | Autonomous balancing robot using control algorithms | Robotics | Completed |
+| SO100 Robotics Arm | Robotic arm implementation and control | Robotics | Completed |
+| TURTLEBOT Autonomous Bot | Autonomous mobile robot platform | Robotics | Ongoing |
+| AI-Driven Solar Panel Optimization | MATLAB-based research optimization system | MATLAB, AI | Completed |
+| Line Following & Obstacle Robot | Autonomous navigation robot | Arduino, Sensors | Completed |
+| Dual Output Power Supply Design | Hardware power supply using LM317 & LM337 | Analog Electronics | Completed |
+| Smart Inventory Manager Robot (SIH) | Warehouse automation robotic system | IoT, Robotics | Completed |
+| Fastest Finger First using ICs | Digital logic-based electronic system | Digital Logic Design | Completed |
 
 ---
 
@@ -98,26 +98,6 @@ I enjoy working across the full development lifecycle — from hardware interfac
 ## 💡 Engineering Philosophy
 
 I believe robotics innovation comes from merging intelligent algorithms with real-world hardware experimentation. My approach focuses on rapid prototyping, research-driven design, and building practical systems that solve real-world problems.
-
----
-
-## 🏆 Achievements
-
-🥇 IEEE Sampark Datathon Winner  
-🥈 IEEE MATLAB Innovation Challenge  
-🥉 Hackduino Hackathon Runner-up  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devarsh170407&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devarsh170407&theme=tokyonight"/>
-</p>
 
 ---
 
