@@ -62,16 +62,16 @@ I enjoy working across the full development lifecycle — from hardware interfac
 
 ## 🚀 Projects
 
-| Project | Description | Technologies | Status |
-|--------|-------------|-------------|--------|
-| Autonomous Mobile Robot | Simulation & physical robotic platform with navigation | ROS2, Jetson Nano, Raspberry Pi | Ongoing |
-| Gas Leakage Detection System | Real-time gas monitoring with alerts | ESP, Gas Sensor, Arduino | Completed |
-| Sound-Activated Control System | Embedded system triggered by sound input | ATMEGA32, Embedded C | Completed |
-| RF-Based Wireless Load Control | Wireless electrical load control | RF Modules, HT12E/HT12D | Completed |
-| Voting Percentage Analysis Web App | Data analysis web platform | HTML, CSS, JS, PHP | Ongoing |
-| Music Player Web App | Web-based music player | HTML, CSS, JS | Ongoing |
-| Self Balancing Robot | Autonomous balancing robot | Embedded Systems | Completed |
-| AI Solar Panel Optimization | MATLAB research project | MATLAB, AI | Completed |
+| Project | Description | Technologies |
+|--------|-------------|-------------|
+| Self-Balancing Robot | Autonomous balancing robot using control algorithms | Embedded Systems |
+| SO100 Robotics Arm | Robotic arm implementation and control | Robotics |
+| TURTLEBOT Autonomous Bot | Autonomous mobile robot platform | Robotics |
+| AI-Driven Solar Panel Optimization | MATLAB-based research optimization system | MATLAB, AI |
+| Line Following & Obstacle Robot | Autonomous navigation robot | Arduino, Sensors |
+| Dual Output Power Supply Design | Hardware power supply using LM317 & LM337 | Analog Electronics |
+| Smart Inventory Manager Robot (SIH) | Warehouse automation robotic system | IoT, Robotics |
+| Fastest Finger First using ICs | Digital logic-based electronic system | Digital Logic Design |
 
 ---
 
