@@ -22,7 +22,7 @@
 
 I am a robotics-focused engineering student passionate about building intelligent hardware–software systems. My work combines embedded systems, robotics platforms, AI-driven automation, and IoT technologies to develop practical real-world solutions.
 
-I enjoy working across the full development lifecycle — from hardware interfacing and embedded firmware to AI algorithms, simulation, and robotics system integration.
+I enjoy working across the full development lifecycle - from hardware interfacing and embedded firmware to AI algorithms, simulation, and robotics system integration.
 
 ---
 
