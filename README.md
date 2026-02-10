@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Devarsh%20Bhatt-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<p align="center">
-<a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Devarsh%20Bhatt">
-<img src="https://img.shields.io/badge/View%20My%20IEEE%20Research-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
-</a>
 </p>
 
 ---
@@ -54,6 +50,11 @@ I enjoy working across the full development lifecycle - from hardware interfacin
 - Uses solar radiation data and intelligent optimization algorithms
 - Combines MATLAB simulation with AI-driven analysis
 
+<p align="center">
+<a href="https://ieeexplore.ieee.org/search/searchresult.jsp?newsearch=true&queryText=Devarsh%20Bhatt">
+<img src="https://img.shields.io/badge/View%20My%20IEEE%20Research-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
+</a>
+</p>
 
 ---
 
