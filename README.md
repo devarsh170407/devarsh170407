@@ -89,7 +89,7 @@ I enjoy working across the full development lifecycle - from hardware interfacin
 ## 🔭 Current Focus
 
 🚀 Developing innovative robotics systems combining hardware intelligence and AI-based decision making  
-🧠 Building intelligent sensing systems and tactile technologies (SensiSkin Project)  
+🧠 Building intelligent sensing systems and tactile technologies  
 ⚙️ Designing embedded solutions that bridge real-world hardware with smart automation  
 🌞 Research-driven development using MATLAB simulations and optimization techniques  
 🔥 Exploring advanced robotics concepts through hands-on projects, competitions, and experimentation  
