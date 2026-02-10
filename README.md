@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Devarsh Bhatt</h1>
 
-<h3 align="center">🤖 Robotics • Embedded Systems • AI • IoT • Hardware Innovation</h3>
+--- 
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,matlab,arduino,raspberrypi,c,cpp,java,git,github,linux" />
+</p>
 
 ---
 
@@ -33,14 +39,6 @@ I enjoy working across the full development lifecycle - from hardware interfacin
 ✅ Build AI-driven optimization and automation systems  
 ✅ Create IoT-enabled smart solutions  
 ✅ Integrate hardware intelligence with software systems  
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,matlab,arduino,raspberrypi,c,cpp,java,git,github,linux" />
-</p>
 
 ---
 
