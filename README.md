@@ -5,7 +5,7 @@
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,c,cpp,github,linux,js,php,matlab,arduino,python,raspberrypi,opencv,anaconda,r&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,github,linux,js,java,php,matlab,arduino,python,raspberrypi,opencv,anaconda,r&perline=8" />
 </p>
 
 ---
