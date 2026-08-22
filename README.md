@@ -63,17 +63,17 @@ I enjoy working across the development lifecycle — from hardware interfacing a
 
 | Project | Description | Technologies | Status |
 |--------|-------------|-------------|----------|
-| Smart Agriculture Automation System | Confidential embedded and IoT-based automation system involving sensor data acquisition, edge computing, intelligent processing, and hardware-software integration | Embedded Systems, IoT, AI | Ongoing |
+| Smart Agriculture Automation System | Confidential embedded and IoT-based automation system involving sensor data acquisition, edge computing, intelligent processing, and hardware-software integration | Embedded Systems, IoT, AI | Completed |
 | TURTLEBOT Autonomous Bot | Autonomous mobile robot for mapping, localization, and navigation | ROS2, LiDAR, Gazebo | Ongoing |
 | SO100 Robotic Arm | Robotic arm implementation and control for manipulation and automation | Robotics | Completed |
 | Self-Balancing Robot | PID-based robotic system using real-time sensor feedback for stabilization | C/C++, PID, Sensors | Completed |
 | AI-Driven Solar Panel Optimization | Research-oriented optimization system for improving solar panel placement and efficiency | MATLAB, AI | Completed |
-| Rudraksha Design Studio Website | Responsive business website developed for a design studio | HTML, CSS, JavaScript, PHP, MySQL | Completed |
-| Gramin Sanjivani | Digital platform developed to provide smart rural assistance and service accessibility | Web Development, JavaScript | Completed |
 | Line Following Robot | Autonomous robot capable of following predefined paths using sensor feedback | Arduino, Sensors | Completed |
 | Obstacle Avoidance Robot | Autonomous robot capable of detecting and avoiding obstacles | Arduino, Ultrasonic Sensor | Completed |
 | Dual Output Power Supply Design | Regulated dual-output power supply design | LM317, LM337, Analog Electronics | Completed |
 | Fastest Finger First using ICs | Digital logic-based quiz buzzer system | Digital Logic, ICs | Completed |
+| Rudraksha Design Studio Website | Responsive business website developed for a design studio | Web Devlopment | Completed |
+| Gramin Sanjivani | Digital platform developed to provide smart rural assistance and service accessibility | Web Development, JavaScript | Completed |
 
 ---
 
