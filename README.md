@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Devarsh%20Bhatt-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/devarsh170407">
-<img src="https://img.shields.io/badge/GitHub-devarsh170407-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
@@ -72,6 +68,8 @@ I enjoy working across the development lifecycle — from hardware interfacing a
 | SO100 Robotic Arm | Robotic arm implementation and control for manipulation and automation | Robotics | Completed |
 | Self-Balancing Robot | PID-based robotic system using real-time sensor feedback for stabilization | C/C++, PID, Sensors | Completed |
 | AI-Driven Solar Panel Optimization | Research-oriented optimization system for improving solar panel placement and efficiency | MATLAB, AI | Completed |
+| Rudraksha Design Studio Website | Responsive business website developed for a design studio | HTML, CSS, JavaScript, PHP, MySQL | Completed |
+| Gramin Sanjivani | Digital platform developed to provide smart rural assistance and service accessibility | Web Development, JavaScript | Completed |
 | Line Following Robot | Autonomous robot capable of following predefined paths using sensor feedback | Arduino, Sensors | Completed |
 | Obstacle Avoidance Robot | Autonomous robot capable of detecting and avoiding obstacles | Arduino, Ultrasonic Sensor | Completed |
 | Dual Output Power Supply Design | Regulated dual-output power supply design | LM317, LM337, Analog Electronics | Completed |
