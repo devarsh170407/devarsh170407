@@ -26,10 +26,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-Devarsh%20Bhatt-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/devarsh170407">
-<img src="https://img.shields.io/badge/GitHub-devarsh170407-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 </p>
 
 ---
