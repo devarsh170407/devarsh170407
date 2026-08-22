@@ -1,20 +1,14 @@
 <h1 align="center">Hi 👋, I'm Devarsh Bhatt</h1>
 
-<p align="center">
-  B.Tech ICT Student | Robotics | Embedded Systems | ROS2 | AI & IoT
-</p>
-
 ---
 
 ## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,matlab,arduino,raspberrypi,linux,opencv,ros,html,css,js,php,mysql,github&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,c,cpp,github,linux,js,java,php,matlab,arduino,python,raspberrypi,opencv,anaconda,r&perline=8" />
 </p>
 
 ---
-
-## 📫 Connect With Me
 
 <p align="center">
 
@@ -26,180 +20,90 @@
 <img src="https://img.shields.io/badge/LinkedIn-Devarsh%20Bhatt-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/devarsh170407">
+<img src="https://img.shields.io/badge/GitHub-devarsh170407-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
 ## 🚀 Professional Overview
 
-I am a B.Tech Information and Communications Technology student focused on
-**robotics, embedded systems, autonomous systems, and intelligent hardware-software integration**.
+I am a B.Tech Information and Communications Technology student focused on robotics, embedded systems, AI, and IoT. My work combines hardware and software development to build practical systems involving autonomous robots, embedded platforms, sensor-based automation, and intelligent applications.
 
-My work involves building and experimenting with robotic systems, embedded platforms,
-sensor-based automation, and AI-enabled systems using technologies such as
-**ROS2, C++, Python, Raspberry Pi, ESP32, and Arduino**.
-
-I enjoy working across the complete engineering lifecycle — from hardware interfacing
-and embedded programming to robotics simulation, control systems, software development,
-and system integration.
+I enjoy working across the development lifecycle — from hardware interfacing and embedded programming to robotics simulation, control systems, AI-based solutions, and system integration.
 
 ---
 
-## 🛠️ What I Do
+## ⚡ What I Do
 
-- 🤖 Develop autonomous robotic systems using **ROS2**
-- ⚙️ Build embedded systems using **ESP32, Arduino, and Raspberry Pi**
-- 🧭 Work with **LiDAR, sensors, robot control, and autonomous navigation**
-- 💻 Develop software using **C++, Python, C, and MATLAB**
-- 🔌 Integrate hardware, sensors, communication interfaces, and software
-- 🧠 Explore AI and intelligent decision-making for physical systems
-- 🔬 Work on research-oriented engineering and optimization problems
-
----
-
-## 🤖 Robotics Projects
-
-### 🐢 TURTLEBOT Autonomous Bot
-
-An ongoing autonomous mobile robotics project focused on:
-
-- ROS2-based robot development
-- LiDAR integration
-- Mapping and localization
-- Autonomous navigation
-- Robot simulation and control
-
-**Technologies:** ROS2, C++, Python, LiDAR, Gazebo
+✅ Develop autonomous robotic systems using ROS2  
+✅ Design embedded systems using microcontrollers, Raspberry Pi, and sensors  
+✅ Build robotics and automation systems using C++, Python, and embedded platforms  
+✅ Develop AI-driven optimization and intelligent automation systems  
+✅ Integrate hardware, sensors, communication interfaces, and software  
+✅ Work on research-oriented engineering projects and technical competitions  
 
 ---
 
-### 🦾 SO100 Robotic Arm
+## 🔬 Research Work
 
-A robotic arm project focused on:
+📄 **AI-Based Solar Panel Optimization using MATLAB**
 
-- Robot joint control
-- Motion control
-- Object manipulation
-- Coordinated robotic movement
-- Automation applications
+- Research-focused project developed during IEEE MATLAB Innovation Challenge
+- Uses solar radiation data and intelligent optimization algorithms
+- Combines MATLAB simulation with AI-driven analysis
 
-**Technologies:** Robotics, Robot Control
-
----
-
-### ⚖️ Self-Balancing Robot
-
-A PID-based robotic system designed for dynamic stabilization using
-real-time sensor feedback.
-
-**Technologies:** C/C++, PID Control, Sensors, Embedded Systems
-
----
-
-## 🔬 Research
-
-### ☀️ AI-Based Solar Panel Optimization using MATLAB
-
-Research work developed during the **IEEE MATLAB Innovation Challenge**.
-
-- Uses solar radiation data for optimization
-- Applies intelligent optimization techniques
-- Developed using MATLAB-based simulation
-- Focused on improving solar panel placement and efficiency
-
-📄 **IEEE Publication:**
-
+<p align="center">
 <a href="https://ieeexplore.ieee.org/document/11364963">
-<img src="https://img.shields.io/badge/IEEE%20Publication-View%20Research-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/View%20IEEE%20Publication-blue?style=for-the-badge&logo=ieee&logoColor=white"/>
 </a>
+</p>
 
 ---
 
-## 🌱 Confidential Engineering Project
+## 🚀 Projects
 
-### Smart Agriculture Automation System
-
-An ongoing confidential engineering project involving:
-
-- Embedded hardware
-- Sensor data acquisition
-- Edge computing
-- Intelligent data processing
-- Hardware-software integration
-- Real-time data handling
-- Communication interfaces
-- System-level automation
-
-> Some implementation details are intentionally not disclosed due to project confidentiality.
-
----
-
-## 🏆 Achievements
-
-🏆 **1st Place** — IEEE Sampark Datathon
-
-🥈 **2nd Place** — IEEE MATLAB Innovation Challenge
-
-🥉 **2nd Runner Up** — Official Hackduino Hackathon
-
-🥉 **2nd Runner Up** — Byte Hunt IoT Trail
-
-🎯 **Selected Participant** — IEEE MYOSA Event
-
----
-
-## 🧰 Core Skills
-
-### Programming
-C • C++ • Python • Java • MATLAB
-
-### Robotics
-ROS2 • Gazebo • LiDAR • Robot Control • Autonomous Navigation
-
-### Embedded Systems
-ESP32 • Arduino • Raspberry Pi • Jetson Nano • Sensor Integration
-
-### IoT & Communication
-LoRa • RS485 • REST APIs • Firebase
-
-### AI & Software
-OpenCV • ONNX • Flask • MATLAB/Simulink
-
-### Web
-HTML • CSS • JavaScript • PHP • MySQL
+| Project | Description | Technologies | Status |
+|--------|-------------|-------------|----------|
+| Smart Agriculture Automation System | Confidential embedded and IoT-based automation system involving sensor data acquisition, edge computing, intelligent processing, and hardware-software integration | Embedded Systems, IoT, AI | Ongoing |
+| TURTLEBOT Autonomous Bot | Autonomous mobile robot for mapping, localization, and navigation | ROS2, LiDAR, Gazebo | Ongoing |
+| SO100 Robotic Arm | Robotic arm implementation and control for manipulation and automation | Robotics | Completed |
+| Self-Balancing Robot | PID-based robotic system using real-time sensor feedback for stabilization | C/C++, PID, Sensors | Completed |
+| AI-Driven Solar Panel Optimization | Research-oriented optimization system for improving solar panel placement and efficiency | MATLAB, AI | Completed |
+| Line Following Robot | Autonomous robot capable of following predefined paths using sensor feedback | Arduino, Sensors | Completed |
+| Obstacle Avoidance Robot | Autonomous robot capable of detecting and avoiding obstacles | Arduino, Ultrasonic Sensor | Completed |
+| Dual Output Power Supply Design | Regulated dual-output power supply design | LM317, LM337, Analog Electronics | Completed |
+| Fastest Finger First using ICs | Digital logic-based quiz buzzer system | Digital Logic, ICs | Completed |
 
 ---
 
 ## 🎯 Areas of Interest
 
-- 🤖 Autonomous & Mobile Robotics
-- ⚙️ Embedded & Real-Time Systems
-- 🦾 Robotic Manipulation
-- 🧭 Autonomous Navigation
-- 📡 Sensor-Based Automation
-- 🧠 Intelligent Hardware-Software Integration
-- 🔬 Robotics Research & Development
+🤖 Autonomous & Mobile Robotics  
+⚙️ Embedded and Real-Time Systems  
+🦾 Robotic Manipulation & Control  
+📡 Sensor-Based Automation  
+🧠 Intelligent Hardware–Software Integration  
+📊 AI and Machine Learning for Physical Systems  
 
 ---
 
 ## 🔭 Current Focus
 
-- 🚀 Developing autonomous robotic systems using ROS2
-- 🦾 Exploring robotic manipulation and motion control
-- ⚙️ Building embedded systems and sensor-integrated platforms
-- 🧠 Exploring AI applications in physical systems
-- 🔬 Working on research-oriented robotics and automation projects
-- 💻 Strengthening C++, Python, and robotics software development
+🚀 Developing autonomous robotic systems using ROS2  
+🦾 Exploring robotic manipulation, motion control, and automation  
+⚙️ Building embedded systems and sensor-integrated platforms  
+🧠 Exploring AI applications in physical systems  
+🔬 Working on research-oriented robotics and automation projects  
+💻 Strengthening C++, Python, and robotics software development  
 
 ---
 
 ## 💡 Engineering Philosophy
 
-> **Build. Test. Understand. Improve.**
-
-I believe effective robotics engineering comes from combining strong fundamentals
-with hands-on experimentation. I enjoy turning engineering concepts into working
-systems through rapid prototyping, testing, debugging, and continuous learning.
+I believe robotics innovation comes from combining intelligent algorithms with real-world hardware experimentation. My approach focuses on hands-on development, rapid prototyping, research-driven design, testing, debugging, and continuous learning.
 
 ---
 
